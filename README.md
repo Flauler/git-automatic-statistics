@@ -31,7 +31,6 @@ git commit -m "Update README.MD"
 git push
 ```
 
-3. Save the file as `update_readme.bat` in the same directory as `addREADME.py`.
 
 #### Running the Script
 
@@ -54,8 +53,7 @@ git commit -m "Update README.MD"
 git push
 ```
 
-3. Save the file as `update_readme.sh` in the same directory as `addREADME.py`.
-4. Make the script executable by running `chmod +x update_readme.sh` from the terminal.
+3. Make the script executable by running `chmod +x update_readme.sh` from the terminal.
 
 #### Running the Script
 
