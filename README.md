@@ -55,9 +55,15 @@ git push
 
 3. Make the script executable by running `chmod +x update_readme.sh` from the terminal.
 
-#### Running the Script
+Automation:
+To automate the execution of this script:
 
-Execute the script from the terminal with `./update_readme.sh`.
+### For Windows:
+Open Task Scheduler.
+Create a new basic task.
+Specify the task name, trigger it daily, and set the desired execution time.
+Choose "Start a program" as the action, and provide the path to your .bat file.
+Review the settings and confirm.
 
 ## Contributing
 
