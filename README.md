@@ -59,11 +59,11 @@ Automation:
 To automate the execution of this script:
 
 ### For Windows:
-Open Task Scheduler.
-Create a new basic task.
-Specify the task name, trigger it daily, and set the desired execution time.
-Choose "Start a program" as the action, and provide the path to your .bat file.
-Review the settings and confirm.
+1. Open Task Scheduler.
+2. Create a new basic task.
+3. Specify the task name, trigger it daily, and set the desired execution time.
+4. Choose "Start a program" as the action, and provide the path to your .bat file.
+5. Review the settings and confirm.
 
 ## Contributing
 
